@@ -112,7 +112,7 @@ I enjoy combining technical engineering with business understanding to create pr
 
 # 🚀 Featured Projects
 
-## 🏢 NewBBBEE Compliance Platform
+## 🏢 BBBEE Compliance Platform
 Solely architected and developed an enterprise-grade B-BBEE compliance management platform designed to streamline South African scorecard assessments for clients, consultants, and management teams.
 
 ### Key Contributions
