@@ -147,36 +147,6 @@ Award-winning logistics and transportation platform developed as a university fi
 
 ---
 
-# 🏆 Professional Experience
-
-## 💼 Codegarden
-### Technical Lead | Sales Support & Software Developer
-
-- Managed and optimized production-grade React & Firebase systems
-- Reduced technical debt and improved system stability
-- Bridged communication between technical and business teams
-- Supported lead management and customer workflows
-
----
-
-## 💼 Sisonke App
-### Lead Full-Stack Developer
-
-- Led software lifecycle from architecture to deployment
-- Developed scalable Node.js and MongoDB backend systems
-- Built responsive React Native mobile interfaces
-
----
-
-## 💼 Forge Academy Labs
-### Software Developer & Project Manager Intern
-
-- Promoted to Project Manager Intern within 2 months
-- Delivered full-stack applications using React and Firebase
-- Led Agile workflows and team collaboration sessions
-
----
-
 # 🎓 Education & Certifications
 
 ### 🎓 University of Johannesburg
@@ -189,7 +159,6 @@ Award-winning logistics and transportation platform developed as a university fi
 
 🏅 Artificial Intelligence in the 4IR  
 🏅 AWS Cloud Practitioner (In Progress)  
-🏅 Microsoft Azure Fundamentals
 
 
 ---
