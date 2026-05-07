@@ -189,30 +189,6 @@ Award-winning logistics and transportation platform developed as a university fi
 🏅 AWS Cloud Practitioner (In Progress)  
 🏅 Microsoft Azure Fundamentals
 
----
-
-# 🌱 Currently Learning
-
-```ts
-const nthabiseng = {
-  learning: [
-    "Advanced .NET Architecture",
-    "AWS Cloud Engineering",
-    "System Design",
-    "Scalable Backend Systems"
-  ],
-
-  interests: [
-    "Mobile Development",
-    "Technical Leadership",
-    "UI/UX",
-    "Cloud Solutions"
-  ],
-
-  philosophy:
-    "Build software that is scalable, maintainable, and meaningful."
-}
-```
 
 ---
 
