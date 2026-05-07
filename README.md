@@ -112,14 +112,16 @@ I enjoy combining technical engineering with business understanding to create pr
 
 # 🚀 Featured Projects
 
-## 📖 Arranged Holy Bible App
-Cross-platform Bible application built using React Native, TypeScript, .NET (C#), JWT Authentication, and MongoDB.
+## 🏢 NewBBBEE Compliance Platform
+Solely architected and developed an enterprise-grade B-BBEE compliance management platform designed to streamline South African scorecard assessments for clients, consultants, and management teams.
 
-### Key Features
-- Secure Authentication & Authorization
-- RESTful API Architecture
-- Live Search & Personalization
-- Performance Optimization & Caching
+### Key Contributions
+- Designed and built the complete frontend architecture using React 19, Vite, and Tailwind CSS
+- Engineered dynamic B-BBEE scorecard calculation workflows across multiple compliance pillars
+- Implemented secure role-based authentication and Firestore database integration using Firebase
+- Developed responsive dashboards for clients, consultants, and management operations
+- Structured, scalable component architecture and reusable form systems for maintainability
+- Optimized application performance, routing, and workflow efficiency across the platform
 
 ---
 
