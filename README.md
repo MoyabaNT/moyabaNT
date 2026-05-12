@@ -121,7 +121,7 @@ I enjoy combining technical with business understanding to create products that 
 ### 📜 Certifications
 
 🏅 Artificial Intelligence in the 4IR  
-🏅 AWS Cloud Practitioner (In Progress)  
+🏅 AWS Cloud Practitioner 
 
 
 ---
