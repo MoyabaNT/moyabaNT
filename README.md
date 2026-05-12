@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/moyabaNT.png" width="180" style="border-radius:100%;" />
+<img src="https://github.com/moyabaNT.png" width="180" height="180" style="border-radius:50%;" />
 
 # 👩🏽‍💻 Nthabiseng Tebatso Moyaba
 
