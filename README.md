@@ -24,7 +24,7 @@
 
 # ✨ About Me
 
-I am a South African Full-Stack Developer and emerging Technical Lead passionate about building scalable, user-focused digital solutions.
+I am a South African Full-Stack Developer and Technical Lead, passionate about building scalable, user-focused digital solutions.
 
 My expertise spans modern frontend development, backend development, cloud-integrated systems, and mobile application development using:
 
