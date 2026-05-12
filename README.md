@@ -110,43 +110,6 @@ I enjoy combining technical engineering with business understanding to create pr
 
 ---
 
-# 🚀 Featured Projects
-
-## 🏢 BBBEE Compliance Platform
-Solely architected and developed an enterprise-grade B-BBEE compliance management platform designed to streamline South African scorecard assessments for clients, consultants, and management teams.
-
-### Key Contributions
-- Designed and built the complete frontend architecture using React 19, Vite, and Tailwind CSS
-- Engineered dynamic B-BBEE scorecard calculation workflows across multiple compliance pillars
-- Implemented secure role-based authentication and Firestore database integration using Firebase
-- Developed responsive dashboards for clients, consultants, and management operations
-- Structured, scalable component architecture and reusable form systems for maintainability
-- Optimized application performance, routing, and workflow efficiency across the platform
-
----
-
-## 🧶 SazzyStitches
-Modern crochet-inspired e-commerce platform built with React, Firebase, Node.js, and responsive UI principles.
-
-### Key Features
-- Firebase Authentication
-- Product Upload System
-- Cart Management
-- Responsive Shopping Experience
-
----
-
-## 📦 Pack It Buddy
-Award-winning logistics and transportation platform developed as a university final-year project.
-
-### Key Features
-- Real-time Firebase Integration
-- Stripe Payment Integration
-- Mobile Compatibility via Ionic Capacitor
-- Team Leadership & Agile Delivery
-
----
-
 # 🎓 Education & Certifications
 
 ### 🎓 University of Johannesburg
