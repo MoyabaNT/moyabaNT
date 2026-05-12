@@ -26,7 +26,7 @@
 
 I am a South African Full-Stack Developer and emerging Technical Lead passionate about building scalable, user-focused digital solutions.
 
-My expertise spans modern frontend development, backend engineering, cloud-integrated systems, and mobile application development using:
+My expertise spans modern frontend development, backend development, cloud-integrated systems, and mobile application development using:
 
 - ⚛️ React & React Native
 - 🔷 .NET (C#)
@@ -35,7 +35,7 @@ My expertise spans modern frontend development, backend engineering, cloud-integ
 - 🍃 MongoDB & SQL
 - 🎨 UI/UX Optimization
 
-I enjoy combining technical engineering with business understanding to create products that are both functional and impactful.
+I enjoy combining technical with business understanding to create products that are both functional and impactful.
 
 ---
 
